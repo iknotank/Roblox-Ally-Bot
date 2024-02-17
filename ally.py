@@ -76,7 +76,7 @@ def AllyBot(range1, range2, proxies, cookies, SelfGroup):
 Logo()
 Option = Options()
 if Option == 1:
-   SelfGroup = input("Enter your groupId: ")
+   SelfGroup = input("33859349d: ")
    cookies = {'.ROBLOSECURITY': Return_Config()['cookie']}
    Range1, Range2 = Return_Config()['Range1'], Return_Config()['Range2']
    proxies = return_Proxies()
